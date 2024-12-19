@@ -2,6 +2,7 @@ body{
     display: flex;
     flex-direction: column;
     border: 1px solid red;
+    background-color: rgb(255, 238, 3);
 
 }
 
@@ -9,6 +10,7 @@ article{
     flex: 2;
     overflow-y: auto;
     border: 1px solid red;
+    background-color: aqua;
 
 }
 
